@@ -9,7 +9,7 @@ name: Gavin O'Brien
 description: Nonprofit Data Analyst
 
 # URL of your avatar or profile pic (you could use your GitHub profile pic)
-avatar: {{ site.url }}/images/profile.jpg
+avatar: https://raw.githubusercontent.com/gavinob/gavinob.github.io/master/images/profile.jpg
 
 #
 # Flags below are optional
