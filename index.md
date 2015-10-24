@@ -7,12 +7,6 @@ Hi, I'm Gavin. I use data to find and implement effective solutions to social pr
 
 Passionate about social justice, I have a Master of Public Policy degree from the [Heller School](http://heller.brandeis.edu/) at Brandeis University. I serve on the core team of [Roosevelt Institute | Boston](https://www.facebook.com/RooseveltBoston), a city chapter of the national Roosevelt Institute that focuses on civic engagement among young people and upholding the principles of FDR's New Deal.
 
-# Other Interests
-* Advocacy on homelessness and affordable housing issues
-* End-user cryptography/cybersecurity
-* [Amateur mycology](http://www.bostonmycologicalclub.org/)
-* Live music
-
 # Contact
 
 * [Email](mailto:geobrien@gmail.com)
