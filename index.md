@@ -3,15 +3,22 @@ layout: default
 published: true
 ---
 
-# About
-Hi, I'm Gavin. I use data to find and implement effective solutions to social problems. I work as the programs data analyst at [Community Servings](http://www.servings.org), a fantastic nonprofit in Boston that runs [local food and nutrition programs](http://www.bostonglobe.com/metro/2015/08/27/group-aims-show-that-good-food-can-work-well-medicine/v56ARR3tYgTY2pSaGfSIRL/story.html). I am currently looking for volunteer data projects in the nonprofit or government sectors. Suggestions for non-data volunteer opportunities are welcomed, as well.
+## About
+Hi, I'm Gavin.
 
-# Contact
-
-* [Email](mailto:geobrien@gmail.com)
-* [Facebook](https://www.facebook.com/GavinEOB)
-* [GitHub](https://github.com/GavinOB)
-* [Instagram](https://instagram.com/MoxieNerveFood)
+## Email and Social Media
+* [Email: gobrienvt@icloud.com](mailto:gobrienvt@icloud.com)
+* [Mastodon: @GavinEOB@mstdn.social](https://mstdn.social/@GavinEOB)
 * [LinkedIn](https://www.linkedin.com/in/gavineobrien)
-* [Twitter](https://www.twitter.com/MoxieNerveFood)
-* [PGP Public Key](https://pgp.mit.edu/pks/lookup?op=get&search=0x6703063F7501305C)
+* [Flickr](https://flickr.com/photos/183776482@N05/)
+
+## Family Trees
+* [Ancestry: gobrienvt30](https://www.ancestry.com/profile/062aafa9-0006-0000-0000-000000000000) \| [Tree Link](https://www.ancestry.com/family-tree/tree/161032669?cfpid=432101210272&dtid=100)
+* [Wikitree: O'Brien-7871](https://www.wikitree.com/wiki/O'Brien-7871) \| [Tree Link](https://www.wikitree.com/wiki/O'Brien-7871#Ancestors)
+
+## Family Pages
+
+* [O'Brien](/obrien/) --- descendants of William O'Brien (c.1791--1856) and Mary (Sexton) O'Brien (?--?)
+* [Belcastro](/belcastro/) --- descendants of Francesco Antonio "Frank" Belcastro (1882--1969) and Virginia (Aden) Belcastro (1896--1991)
+* [Eastwood](/eastwood/) ---
+
