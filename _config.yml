@@ -17,12 +17,12 @@ avatar: https://raw.githubusercontent.com/gavinob/gavinob.github.io/master/image
 # Includes an icon in the footer for each username you enter
 footer-links:
   dribbble:
-  email: gobrienvt@icloud.com
-  facebook: GavinEOB
-  flickr: 183776482@N05
-  github: GavinOB
-  instagram: MoxieNerveFood
-  linkedin: gavineobrien
+  email: #gobrienvt@icloud.com
+  facebook: #GavinEOB
+  flickr: #183776482@N05
+  github: #GavinOB
+  instagram: #MoxieNerveFood
+  linkedin: #gavineobrien
   pinterest:
   rss: # just type anything here for a working RSS icon
   twitter: 
@@ -30,8 +30,8 @@ footer-links:
   youtube: # channel/<your_long_string> or user/<user-name>
   googleplus: # anything in your profile username that comes after plus.google.com/
   mastodon: 
-  - username: GavinEOB
-    instance: mstdn.social
+  - username: #GavinEOB
+    instance: #mstdn.social
 
 
 # Enter your Disqus shortname (not your username) to enable commenting on posts

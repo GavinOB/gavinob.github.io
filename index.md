@@ -4,7 +4,7 @@ published: true
 ---
 
 ## About
-Hi, I'm Gavin.
+Hi, I'm Gavin. This site is for sharing the family research I've done. There is a separate page for each family in the links below.
 
 ## Email and Social Media
 * [Email: gobrienvt@icloud.com](mailto:gobrienvt@icloud.com)
