@@ -14,5 +14,8 @@ Hi, I'm Gavin. This site is for sharing the family research I've done. There is 
 
 * [O'Brien](/obrien/) --- descendants of William O'Brien (c.1791--1856) and Mary (Sexton) O'Brien (?--?)
 * [Belcastro](/belcastro/) --- descendants of Francesco Antonio "Frank" Belcastro (1882--1969) and Virginia (Aden) Belcastro (1896--1991)
-* [Eastwood](/eastwood/) ---
+
+## Contact
+
+Have a question or think we might share a family connection? [Get in touch](/contact/).
 
